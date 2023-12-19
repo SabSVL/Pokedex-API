@@ -22,8 +22,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propo
 - Dados fornecidos pela API da Pokédex.
 - Desenvolvido como parte do Bootcamp de Front End da DIO por Sabrina dos Santos.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-Divirta-se explorando a Pokédex!
